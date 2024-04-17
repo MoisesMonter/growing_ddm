@@ -1,0 +1,17 @@
+export const colors = {
+    background: '#EFF1F0',
+    sub_background: '#FEFFFF',
+    title: '#000',
+    name: '#5F5594',
+    button_gray_bg: '#DCDFE4',
+    button_gray_tc:'#98989D',
+    button_green_bg:'#539C6A',
+    button_green_tc:'#BFE4CA',
+    separator:'#F1F1F1',
+    icon_color_gray:'#808080',
+    icon_color_background:'#DDDFDE',
+    value_positive_color:'#009D3E',
+    value_positive_background:'#D1E9D7',
+    value_negative_color:'#FF4600',
+    value_negative_background:'#F7EAE0',
+  };

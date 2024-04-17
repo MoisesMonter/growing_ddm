@@ -1,0 +1,81 @@
+{
+    "Users":[
+      {
+        "id": 0,
+        "name": "Elon Musk",
+        "data":350,
+        "photo": "https://imgs.search.brave.com/cRwTS2i3Vus0QcZtlaDnnNxPSwxM1NhvDtoodB9LCxM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9ob2xs/eXdvb2RsaWZlLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Mi8xMS9lbG9uLW11/c2staGFsbG93ZWVu/LTIwMjItZnRyLmpw/Zz9xdWFsaXR5PTEw/MCZ3PTM4NCZoPTIx/NiZjcm9wPTE"
+      },
+      {
+        "id": 1,
+        "name": "This is Elon Musk",
+        "data":550,
+        "photo": "https://imgs.search.brave.com/QE1AJKPcyOeqNs_0lxvGGuX03dCGb4IJyGcf6U3XXtM/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pY2hl/Zi5iYmNpLmNvLnVr/L2FjZS93cy82NDAv/Y3BzcHJvZHBiL2M5/ODEvbGl2ZS8xYmE2/NDc4MC1mNjc2LTEx/ZWUtOWRlYy01OWQ1/Yzc3MGEwNWUuanBn"
+      },
+      {
+        "id": 2,
+        "name": "ré no foguete",
+        "data":1550,
+        "photo": "https://imgs.search.brave.com/clqEflV9qNsg2zrB9m-AMF09opYdluidbZRmSU2MA6s/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zMi1v/Z2xvYm8uZ2xiaW1n/LmNvbS9URkNVN1J0/MVJUYkQ4UjNuQU1r/VGU3U253Snc9L2Zp/dC1pbi83NTB4NDE1/L3NtYXJ0L2ZpbHRl/cnM6c3RyaXBfaWNj/KCkvaS5zMy5nbGJp/bWcuY29tL3YxL0FV/VEhfZGEwMjU0NzRj/MGM0NGVkZDk5MzMy/ZGRkYjA5Y2FiZTgv/aW50ZXJuYWxfcGhv/dG9zL2JzLzIwMjMv/aS9rL3ZIUG5aNFQ4/aTRMeWp2cklEWFZ3/L3NwYWNleC1ibG9v/bWJlcmcuanBn"
+      },
+      {
+        "id": 3,
+        "name": "kkkkOVO",
+        "data":-1550,
+        "photo": "https://imgs.search.brave.com/VOx5V0OKCEZxBGAFsYvnReYiCGt2Edo7kTfjESqlOe4/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy82/LzZmL0FsZXhhbmRy/ZV9kZV9Nb3JhZXNf/bmFfc2FiYXRpbmFf/cGFyYV9vX1NURl8x/LmpwZw"
+      },
+      {
+        "id": 4,
+        "name": "OVO DINOVO?",
+        "data":-3550,
+        "photo": "https://imgs.search.brave.com/VOx5V0OKCEZxBGAFsYvnReYiCGt2Edo7kTfjESqlOe4/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy82/LzZmL0FsZXhhbmRy/ZV9kZV9Nb3JhZXNf/bmFfc2FiYXRpbmFf/cGFyYV9vX1NURl8x/LmpwZw"
+      },
+      {
+        "id": 5,
+        "name": "CARTELA DE OVO",
+        "data":-9550,
+        "photo": "https://imgs.search.brave.com/VOx5V0OKCEZxBGAFsYvnReYiCGt2Edo7kTfjESqlOe4/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy82/LzZmL0FsZXhhbmRy/ZV9kZV9Nb3JhZXNf/bmFfc2FiYXRpbmFf/cGFyYV9vX1NURl8x/LmpwZw"
+      },
+      {
+        "id": 6,
+        "name": "POR APENAS",
+        "data":-10550,
+        "photo": "https://imgs.search.brave.com/VOx5V0OKCEZxBGAFsYvnReYiCGt2Edo7kTfjESqlOe4/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy82/LzZmL0FsZXhhbmRy/ZV9kZV9Nb3JhZXNf/bmFfc2FiYXRpbmFf/cGFyYV9vX1NURl8x/LmpwZw"
+      },
+      {
+        "id": 7,
+        "name": "15 REAIS..ISSO ",
+        "data":-9550,
+        "photo": "https://imgs.search.brave.com/VOx5V0OKCEZxBGAFsYvnReYiCGt2Edo7kTfjESqlOe4/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy82/LzZmL0FsZXhhbmRy/ZV9kZV9Nb3JhZXNf/bmFfc2FiYXRpbmFf/cGFyYV9vX1NURl8x/LmpwZw"
+      },      
+      {
+        "id": 8,
+        "name": "Mesmo que voce ouviu",
+        "data":-19550,
+        "photo": "https://imgs.search.brave.com/VOx5V0OKCEZxBGAFsYvnReYiCGt2Edo7kTfjESqlOe4/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy82/LzZmL0FsZXhhbmRy/ZV9kZV9Nb3JhZXNf/bmFfc2FiYXRpbmFf/cGFyYV9vX1NURl8x/LmpwZw"
+      },
+      {
+        "id": 9,
+        "name": "ouviu.. cartela de ",
+        "data":-29550,
+        "photo": "https://imgs.search.brave.com/VOx5V0OKCEZxBGAFsYvnReYiCGt2Edo7kTfjESqlOe4/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy82/LzZmL0FsZXhhbmRy/ZV9kZV9Nb3JhZXNf/bmFfc2FiYXRpbmFf/cGFyYV9vX1NURl8x/LmpwZw"
+      },
+      {
+        "id": 10,
+        "name": "de ovo apenas 15 ",
+        "data":-9550,
+        "photo": "https://imgs.search.brave.com/VOx5V0OKCEZxBGAFsYvnReYiCGt2Edo7kTfjESqlOe4/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy82/LzZmL0FsZXhhbmRy/ZV9kZV9Nb3JhZXNf/bmFfc2FiYXRpbmFf/cGFyYV9vX1NURl8x/LmpwZw"
+      },
+      {
+        "id": 11,
+        "name": "15 REAIS.. ",
+        "data":-59550,
+        "photo": "https://imgs.search.brave.com/VOx5V0OKCEZxBGAFsYvnReYiCGt2Edo7kTfjESqlOe4/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy82/LzZmL0FsZXhhbmRy/ZV9kZV9Nb3JhZXNf/bmFfc2FiYXRpbmFf/cGFyYV9vX1NURl8x/LmpwZw"
+      },      {
+        "id": 13,
+        "name": "Barato de mais ",
+        "data":-139550,
+        "photo": "https://imgs.search.brave.com/VOx5V0OKCEZxBGAFsYvnReYiCGt2Edo7kTfjESqlOe4/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy82/LzZmL0FsZXhhbmRy/ZV9kZV9Nb3JhZXNf/bmFfc2FiYXRpbmFf/cGFyYV9vX1NURl8x/LmpwZw"
+      }
+    ]
+  }

@@ -1,11 +1,24 @@
+import React,{useState,useEffect} from 'react';
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, Text, View,Image, TouchableOpacity, Button} from 'react-native';
+import TextFont from './components/atomes/fonts';
+import { colors } from './components/atomes/colors/colors';
+import User_Info from './components/organisms/user_info';
+import { Growing } from './components/page/growing';
+import Bar_List_User from './components/molecules/bar_list_user';
+
+
 
 export default function App() {
-  return (
-    <View style={styles.container}>
-      <Text>Open up App.tsx to start working on your app!</Text>
-      <StatusBar style="auto" />
+  const styles_colors = StyleSheet.create({
+    container:{
+      backgroundColor: colors.background ,
+    },
+  })
+
+  return(
+    <View style={[styles.container,styles_colors.container]}>
+      <Growing></Growing>
     </View>
   );
 }
@@ -13,8 +26,11 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
+    paddingTop:'5%',
+    paddingRight:'5%',
+    paddingLeft:'5%',
+
+    justifyContent: 'flex-start',
   },
+
 });
